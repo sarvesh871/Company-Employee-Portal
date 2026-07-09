@@ -1,6 +1,6 @@
 function displayMessage(){
 
     document.getElementById("status").innerHTML =
-        "Latest version deployed successfully.";
+        "Version 2 deployed successfully.";
 
 }
